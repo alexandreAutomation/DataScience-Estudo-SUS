@@ -1,0 +1,1 @@
+Para testar a query do exercicio 2 foi desenvolvido um pequeno banco de dados no SQLLite seguindo os relacionamento entre as tabelas
